@@ -6,7 +6,7 @@ Michael Khan @xmasscan
 Samuel Effendy @dejazzhands
 
 # Members
-
+-Sam Stuckey
 
 # SIG Directory
 
